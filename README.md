@@ -1,1 +1,1 @@
-# Diplom_project
+# Diplom_project - Сервис авторизации по номеру телефона
